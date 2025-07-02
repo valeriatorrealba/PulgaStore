@@ -49,7 +49,7 @@ PulgaStore/
 - **CSS3**
 - **Bootstrap 5.3.7**
 - **Fancybox UI v6.0**
-- **JavaScript (Vanilla)**
+- **JavaScript**
 
 ## Galería
 
